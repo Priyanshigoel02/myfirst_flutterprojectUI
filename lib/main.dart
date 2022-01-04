@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        'Priyanshi Goel',
+                        'PriyanshiGoel',
                         style: TextStyle(
                           fontSize: 30.0,
                           fontFamily: 'Passion One',
